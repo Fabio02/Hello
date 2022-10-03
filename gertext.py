@@ -1,0 +1,1 @@
+ger = ["Hund", "Katze", "Adler"]
